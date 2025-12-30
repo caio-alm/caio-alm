@@ -1,4 +1,4 @@
-# Caio Almendra Ferreira
+# Caio Almendra
 
 Meu nome é Caio Almendra Ferreira, tenho 19 anos. Atualmente curso Engenharia de Computação na Universidade Federal de Santa Catarina (UFSC) e estou desenvolvendo minhas habilidades na área de Visão Computacional, com foco em Machine Learning e nas bibliotecas OpenCV e YOLO, tendo como objetivo futuro o aprofundamento em modelos de Deep Learning com os frameworks PyTorch e TensorFlow.
 

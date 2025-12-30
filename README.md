@@ -6,7 +6,7 @@ Meu nome é Caio Almendra Ferreira, tenho 19 anos. Atualmente curso Engenharia d
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 
 <img 
